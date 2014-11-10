@@ -1,0 +1,207 @@
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+\ndk-build.cmd 
+
+Cannot run program "\ndk-build.cmd": Launching failed
+Error: Program "/ndk-build.cmd" is not found in PATH
+
+PATH=[C:/Program Files/Java/jre1.8.0_25/bin/server;C:/Program Files/Java/jre1.8.0_25/bin;C:/Program Files/Java/jre1.8.0_25/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_25\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;D:\Apps\adt-bundle-windows-x86_64-20140702\eclipse;]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+\ndk-build.cmd 
+
+Cannot run program "\ndk-build.cmd": Launching failed
+Error: Program "/ndk-build.cmd" is not found in PATH
+
+PATH=[C:/Program Files/Java/jre1.8.0_25/bin/server;C:/Program Files/Java/jre1.8.0_25/bin;C:/Program Files/Java/jre1.8.0_25/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_25\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;D:\Apps\adt-bundle-windows-x86_64-20140702\eclipse;]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+\ndk-build.cmd 
+
+Cannot run program "\ndk-build.cmd": Launching failed
+Error: Program "/ndk-build.cmd" is not found in PATH
+
+PATH=[C:/Program Files/Java/jre1.8.0_25/bin/server;C:/Program Files/Java/jre1.8.0_25/bin;C:/Program Files/Java/jre1.8.0_25/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_25\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;D:\Apps\adt-bundle-windows-x86_64-20140702\eclipse;]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+\ndk-build.cmd 
+
+Cannot run program "\ndk-build.cmd": Launching failed
+Error: Program "/ndk-build.cmd" is not found in PATH
+
+PATH=[C:/Program Files/Java/jre1.8.0_25/bin/server;C:/Program Files/Java/jre1.8.0_25/bin;C:/Program Files/Java/jre1.8.0_25/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_25\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;D:\Apps\adt-bundle-windows-x86_64-20140702\eclipse;]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+D:\Apps\adt-bundle-windows-x86_64-20140702\android-ndk-r10c\ndk-build.cmd 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Compile++ thumb: detection_based_tracker <= DetectionBasedTracker_jni.cpp
+[armeabi-v7a] SharedLibrary  : libdetection_based_tracker.so
+D:/Apps/adt-bundle-windows-x86_64-20140702/android-ndk-r10c/toolchains/arm-linux-androideabi-4.6/prebuilt/windows-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld.exe: warning: hidden symbol '__aeabi_atexit' in D:/Apps/adt-bundle-windows-x86_64-20140702/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/thumb/libgnustl_static.a(atexit_arm.o) is referenced by DSO ../../sdk/native/jni/../libs/armeabi-v7a/libopencv_java.so
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+D:\Apps\adt-bundle-windows-x86_64-20140702\android-ndk-r10c\ndk-build.cmd 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+D:\Apps\adt-bundle-windows-x86_64-20140702\android-ndk-r10c\ndk-build.cmd 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+D:\Apps\adt-bundle-windows-x86_64-20140702\android-ndk-r10c\ndk-build.cmd 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+D:\Apps\adt-bundle-windows-x86_64-20140702\android-ndk-r10c\ndk-build.cmd 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+15:25:59 **** Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:26:07 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:27:35 **** Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:27:36 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:27:37 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:28:08 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:28:09 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:28:10 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:28:35 **** Incremental Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+15:28:38 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+09:40:52 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+09:40:54 **** Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+09:41:05 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+09:41:06 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+09:45:50 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+"D:\\Apps\\adt-bundle-windows-x86_64-20140702\\android-ndk-r10c\\ndk-build.cmd" 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
